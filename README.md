@@ -1,6 +1,6 @@
 # JavaScript Fundamentals & Exercises
 
-This repository contains my personal practice files and exercises for learning JavaScript, covering everything from the basics and control flow to objects and arrays.
+This repository contains my personal practice files and exercises for learning JavaScript, covering everything from the basics and control flow to objects, arrays, and functions.
 
 ---
 
@@ -73,30 +73,46 @@ This repository contains my personal practice files and exercises for learning J
 │   ├── template_literals.js
 │   └── value_vs_reference.js
 │
-└── Arrays/
-    ├── adding_elements.js
-    ├── array_from_range.js
-    ├── arrow_functions.js
-    ├── combining_slicing.js
-    ├── count_occurrences.js
-    ├── emptying_array.js
-    ├── except_exercise.js
-    ├── filtering_array.js
-    ├── finding_elements_primitives.js
-    ├── finding_elements_references.js
-    ├── get_max.js
-    ├── includes_exercise.js
-    ├── introduction.js
-    ├── iterating_array.js
-    ├── joining_arrays.js
-    ├── mapping_array.js
-    ├── movies.js
-    ├── moving_element.js
-    ├── reducing_array.js
-    ├── removing_elements.js
-    ├── sorting_arrays.js
-    ├── spread_operator.js
-    └── testing_elements.js
+├── Arrays/
+│   ├── adding_elements.js
+│   ├── array_from_range.js
+│   ├── arrow_functions.js
+│   ├── combining_slicing.js
+│   ├── count_occurrences.js
+│   ├── emptying_array.js
+│   ├── except_exercise.js
+│   ├── filtering_array.js
+│   ├── finding_elements_primitives.js
+│   ├── finding_elements_references.js
+│   ├── get_max.js
+│   ├── includes_exercise.js
+│   ├── introduction.js
+│   ├── iterating_array.js
+│   ├── joining_arrays.js
+│   ├── mapping_array.js
+│   ├── movies.js
+│   ├── moving_element.js
+│   ├── reducing_array.js
+│   ├── removing_elements.js
+│   ├── sorting_arrays.js
+│   ├── spread_operator.js
+│   └── testing_elements.js
+│
+└── Functions/
+    ├── area_of_circle.js
+    ├── arguments.js
+    ├── changing_this.js
+    ├── declarations_vs_expressions.js
+    ├── default_parameters.js
+    ├── error_handling_exercise.js
+    ├── getters_setters.js
+    ├── hoisting.js
+    ├── let_vs_var.js
+    ├── local_vs_global_scope.js
+    ├── rest_operator.js
+    ├── sum_of_arguments.js
+    ├── this_keyword.js
+    └── try_catch.js
 ```
 
 ---
