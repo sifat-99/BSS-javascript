@@ -98,22 +98,26 @@ This repository contains my personal practice files and exercises for learning J
 │   ├── spread_operator.js
 │   └── testing_elements.js
 │
-└── Functions/
-    ├── area_of_circle.js
-    ├── arguments.js
-    ├── changing_this.js
-    ├── declarations_vs_expressions.js
-    ├── default_parameters.js
-    ├── error_handling_exercise.js
-    ├── getters_setters.js
-    ├── hoisting.js
-    ├── let_vs_var.js
-    ├── local_vs_global_scope.js
-    ├── rest_operator.js
-    ├── sum_of_arguments.js
-    ├── this_keyword.js
-    └── try_catch.js
+├── Functions/
+│   ├── area_of_circle.js
+│   ├── arguments.js
+│   ├── changing_this.js
+│   ├── declarations_vs_expressions.js
+│   ├── default_parameters.js
+│   ├── error_handling_exercise.js
+│   ├── getters_setters.js
+│   ├── hoisting.js
+│   ├── let_vs_var.js
+│   ├── local_vs_global_scope.js
+│   ├── rest_operator.js
+│   ├── sum_of_arguments.js
+│   ├── this_keyword.js
+│   └── try_catch.js
+│
+└── Personal practice/
+    └── practice.js
 ```
+
 
 ---
 
